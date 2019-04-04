@@ -1,16 +1,16 @@
-# DementiaProbabilities
+# Dementia Probabilities
 SAS and Stata code to calculate Dementia Probabilities
 
 Project Synopsis: Follows Hurd's (2013) method of dementia probability assignment using separate ordered probits for self- and proxy-respondents on the ADAMS Wave A cohort as described in the online appendix. Recreates tables from the appendix and examines sensitivity/specificity and AUC of model vs. Hurd's publicly available probabilities in manner of Gianattasio, et al. (2019). Final probabilities are correlated with Hurd’s at .96, with slightly higher sensitivity and lower specificity, and marginally higher AUC in and out of sample than Hurd’s original probabilities.
 
-Principal Investigator: Amy Kelley 
+## Principal Investigator: Amy Kelley 
 
 Created By: Evan Bollens-Lund
 Date Created: 12/10/15
 Last Modified By: Evan Bollens-Lund
 Date Last Modified: 2/25/19
 
-Data: HRS Core public files, 1998-2014 Software: SAS and Stata
+## Data: HRS Core public files, 1998-2014 Software: SAS and Stata
 
 Papers that use data derived from this code: Ornstein, K.A., Garrido, M.M., Siu, A.L., Bollens‐Lund, E., Langa, K.M. and Kelley, A.S., 2018. Impact of In‐Hospital Death on Spending for Bereaved Spouses. Health Services Research, 53, pp.2696-2717.
 
