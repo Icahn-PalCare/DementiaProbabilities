@@ -1,5 +1,5 @@
 # Dementia Probabilities
-SAS and Stata code to calculate Dementia Probabilities
+SAS and Stata code to calculate Dementia Probabilities<br>
 If the notebooks are not loading, use "https://nbviewer.jupyter.org/" to view. 
 
 Project Synopsis: Follows Hurd's (2013) method of dementia probability assignment using separate ordered probits for self- and proxy-respondents on the ADAMS Wave A cohort as described in the online appendix. Recreates tables from the appendix and examines sensitivity/specificity and AUC of model vs. Hurd's publicly available probabilities in manner of Gianattasio, et al. (2019). Final probabilities are correlated with Hurd’s at .96, with slightly higher sensitivity and lower specificity, and marginally higher AUC in and out of sample than Hurd’s original probabilities.
