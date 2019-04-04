@@ -5,9 +5,9 @@ Project Synopsis: Follows Hurd's (2013) method of dementia probability assignmen
 
 ## Principal Investigator: Amy Kelley 
 
-Created By: Evan Bollens-Lund
-Date Created: 12/10/15
-Last Modified By: Evan Bollens-Lund
+Created By: Evan Bollens-Lund<br>
+Date Created: 12/10/15<br>
+Last Modified By: Evan Bollens-Lund<br>
 Date Last Modified: 2/25/19
 
 ## Data: HRS Core public files, 1998-2014 Software: SAS and Stata
